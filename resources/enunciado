@@ -1,0 +1,10 @@
+Pesquise vários sites Web de faixa solidária (ou “faixa 2”). Crie um aplicativo que calcule o custo diário de dirigir,
+para que possa estimar quanto dinheiro pode ser economizado com o uso da faixa solidária, que também tem outras vantagens,
+como reduzir emissões de carbono e congestionamento de tráfego. O aplicativo deve introduzir as seguintes informações
+e exibir o custo do usuário por dia de dirigir para o trabalho:
+
+a) Quilômetros totais dirigidos por dia.
+b) Preço por litro de gasolina.
+c) Quilometragem por litro de gasolina.
+d) Taxas de estacionamento por dia.
+e) Pedágio por dia.
